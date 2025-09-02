@@ -1,0 +1,112 @@
+/* Загальні стилі для сайту */
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(66, 66, 228);
+  font-size:20px;
+}
+/* Офромлення шапки. Задати колір тексту, вирівнювання тексту, задній фон */
+header {
+
+  background-color:rgb(187, 250, 229);
+  padding: 1px;
+}
+
+/* Офромлення блоку навігації на сайті */
+nav {
+  margin: 20px;
+  text-align: center;
+  padding: 20px;
+  
+}
+
+/* Офромлення кнопок (посилань в навігації) */
+nav a {
+  text-decoration: none;
+  margin:15px ;
+  padding: 15px;
+  color: rgb(5, 4, 4);
+  font-size: 20px;
+  background-color:aquamarine;
+  border-radius: 6000px;
+}
+
+/* Офромлення основної частини: можна додати задній фон*/
+main {
+  margin: 20px;
+}
+
+/* Офромлення заголовку. Додати колір тексту, задній фон, межу тощо */
+main h1 {
+  font-size: 45px;
+  text-align: center;
+ color:white;
+ 
+}
+
+/* Офромлення підзаголовку. Додати колір тексту, задній фон, межу тощо */
+main h2 {
+  font-size: 35px;
+  text-align: center;
+  
+  color:black;
+  background-color: aquamarine;
+}
+
+.p{
+  color: aliceblue;
+
+}
+/* Офромлення основного ткусті. Додати колір тексту, задній фон, межу тощо */
+main p {
+  font-size: 20px;
+  color: rgb(254, 255, 255);
+  
+}
+
+main img {
+  text-align: center;
+}
+
+table {
+  font-size: 20px;
+  text-align: center;
+  
+  margin: 0 auto;
+}
+
+tr {
+  background-color: aquamarine;
+
+}
+
+td {
+  color: ;
+  padding:5px ;
+  margin: 5px;
+  
+}
+
+
+
+
+/* Офромлення опідвалу сайту: можна додати задній фон*/
+footer {text-align: center
+ 
+ }
+
+.footer{
+  font-size: 20px ;
+  color: aqua
+}
+
+}
+/* Офромлення тексту в футері. Задати колір тексту, вирівнювання тексту, задній фон */
+footer p {
+  background-color:;
+  font-size: 10px ;
+  color: white;
+}
+
+
+/* Офромлення посилання в футері. Задати колір тексту, вирівнювання тексту, задній фон */
